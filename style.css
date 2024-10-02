@@ -1,0 +1,16 @@
+/* Popup styling */
+.popup-content {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Suggestion box styling in the chat */
+  .suggestion-box {
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 5px;
+    cursor: pointer;
+    z-index: 1000;
+  }
+  
